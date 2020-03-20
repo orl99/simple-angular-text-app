@@ -1,0 +1,15 @@
+.mac-container {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+h1 {
+  margin-bottom: 50px;
+  text-align: center;
+}
+span{
+  margin-top: 20px;
+}

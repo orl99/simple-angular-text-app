@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  apiEndPointUrl: 'https://simple-uppercase-rest-api.herokuapp.com'
 };
